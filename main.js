@@ -1,4 +1,3 @@
-
 // TITLE SCREEN SETUP
 function showTitleScreen() {
   const titleScreen = document.createElement("div");
@@ -51,4 +50,3 @@ function startGame() {
 window.addEventListener('DOMContentLoaded', () => {
   showTitleScreen();
 });
-

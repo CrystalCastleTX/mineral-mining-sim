@@ -8,7 +8,7 @@ function showTitleScreen() {
   titleScreen.style.left = "0";
   titleScreen.style.width = "100%";
   titleScreen.style.height = "100%";
-  titleScreen.style.backgroundImage = "url('images/title-background.jpg')";
+  titleScreen.style.backgroundImage = "url('images/title-background.png')";
   titleScreen.style.backgroundSize = "cover";
   titleScreen.style.display = "flex";
   titleScreen.style.flexDirection = "column";

@@ -1,1 +1,5 @@
-// Full game code from the live canvas goes here...
+// (existing game logic goes here...)
+
+window.addEventListener('DOMContentLoaded', () => {
+  showTitleScreen();
+});

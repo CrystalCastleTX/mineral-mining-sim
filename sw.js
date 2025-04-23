@@ -2,11 +2,11 @@ self.addEventListener('install', e => {
   e.waitUntil(
     caches.open('mineral-mining-cache').then(cache => {
       return cache.addAll([
-        '/',
-        '/index.html',
-        '/manifest.json',
-        '/main.js',
-        '/sw.js'
+        './',
+        './index.html',
+        './manifest.json',
+        './main.js',
+        './sw.js'
       ]);
     })
   );

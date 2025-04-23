@@ -51,3 +51,4 @@ function startGame() {
 window.addEventListener('DOMContentLoaded', () => {
   showTitleScreen();
 });
+

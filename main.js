@@ -1,4 +1,3 @@
-
 // TITLE SCREEN SETUP
 function showTitleScreen() {
   const titleScreen = document.createElement("div");
